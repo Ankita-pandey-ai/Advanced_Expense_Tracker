@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 💰 Advanced Expense Tracker (CLI + Analytics)
 
 A Python-based command-line Expense Tracker with analytics and visualization support.
